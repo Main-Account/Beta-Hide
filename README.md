@@ -1,11 +1,11 @@
 # Beta-Hide
 ## Large collection
 _______________________________________________________________________________________________________________________________________________________________________
-> sektor7 windows evasion
+ sektor7 windows evasion
 
 ![alt text](https://i.ibb.co/F33GDcv/rto-wineva-hide01-768x432.png)
 
-Le cours Windows Evasion de Sektor7 Institute est une formation pour contourner les systèmes de défense du système d'exploitation Windows tels que les antivirus, IDS/IPS et autres équipements de défense utilisés par les entreprises. Dans ce cours, vous apprendrez comment ne pas être détecté après avoir accédé au système d'exploitation Windows et vos portes dérobées et virus ne peuvent pas être détectés. Vous apprendrez les mécanismes avancés utilisés par les entreprises qui fabriquent des produits de défense tels que les antivirus, puis contournerez et trouverez un moyen de contourner cet équipement. Le cours est pratique et vous recevrez une machine virtuelle avec un environnement complet pour développer et tester votre logiciel et un ensemble de modèles de code source qui vous permettront de vous concentrer sur la compréhension des mécanismes sous-jacents plutôt que sur les aspects techniques critiques de la mise en œuvre. .
+>Le cours Windows Evasion de Sektor7 Institute est une formation pour contourner les systèmes de défense du système d'exploitation Windows tels que les antivirus, IDS/IPS et autres équipements de défense utilisés par les entreprises. Dans ce cours, vous apprendrez comment ne pas être détecté après avoir accédé au système d'exploitation Windows et vos portes dérobées et virus ne peuvent pas être détectés. Vous apprendrez les mécanismes avancés utilisés par les entreprises qui fabriquent des produits de défense tels que les antivirus, puis contournerez et trouverez un moyen de contourner cet équipement. Le cours est pratique et vous recevrez une machine virtuelle avec un environnement complet pour développer et tester votre logiciel et un ensemble de modèles de code source qui vous permettront de vous concentrer sur la compréhension des mécanismes sous-jacents plutôt que sur les aspects techniques critiques de la mise en œuvre. .
 
 
 Introduction et configuration
