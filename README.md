@@ -6,7 +6,25 @@ ________________________________________________________________________________
 > https://beta.hide01.ir/
 
 _______________________________________________________________________________________________________________________________________________________________________
-> IDA PRO 7.1, NESSUS PRO, BURPSUITE COURSES, SEKTOR7 COURSES, BLOCKCHAIN SMART CONTRACT SECURITY, BLACKHAT CONF, ACUNETIX....
+- IDA PRO 7.1
+- NESSUS PRO
+- BURPSUITE COURSES
+- SEKTOR7 COURSES
+- BLOCKCHAIN SMART CONTRACT SECURITY
+- BLACKHAT CONF
+- ACUNETIX
+- PLURALSIGHT
+- AWE - ADVANCED WINDOWS EXPLOITATION
+- OSINT
+- REVERSE
+- FORTYNORTH
+- ZWPTXV2
+- CEH
+- RED TEAM OPS
+- EXPLOIT PACK 15.07
+- ANTISYPHON
+- MGT551
+- ....
 _______________________________________________________________________________________________________________________________________________________________________
 
 ![alt text](https://i.ibb.co/Ks1vY0J/wallpaper4.jpg)
